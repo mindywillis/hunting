@@ -1,0 +1,39 @@
+html{
+background: url(Kansas.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+h1{
+  font-family: 'Acme', sans-serif;
+  color: #192965;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 50px;
+}
+
+div{
+  text-align: center;
+}
+
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+  color: #e1f2fb;
+  font-size: 25px;
+  font-family: 'News Cycle', sans-serif;
+}
+
+.btn-primary{
+	background-color: #35477d;
+	border-color: #35477d;
+}
+
+.btn-primary:hover {
+	background-color: #3282b8;
+	border-color: #3282b8;
+	border-width: 4px;
+}
